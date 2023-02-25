@@ -5,8 +5,8 @@
 
 🇫🇷️ Based in France
 
-⚡ Svelte, Strapi & Web3
+⚡ Sveltekit
 
 🌐️ sergeantweb.com
 
-📫 Reach me on social networks : [Linkedin](https://www.linkedin.com/in/anthony-sergeant/), [Twitter](https://twitter.com/AnthoSerge), [Telegram](https://t.me/AnthonySergeant)
+📫 Message me on [Telegram](https://t.me/AnthonySergeant)
