@@ -7,6 +7,6 @@
 
 ⚡ Sveltekit
 
-🌐️ sergeantweb.com
+🌐️ [sergeantweb.com](https://sergeantweb.com)
 
 📫 Message me on [Telegram](https://t.me/AnthonySergeant)
